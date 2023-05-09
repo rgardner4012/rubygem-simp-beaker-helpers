@@ -11,7 +11,7 @@ HOSTS:
     user: vagrant
     communicator: winrm
     is_cygwin: false
-    family: windows-cloud/windows-2016
+    family: 
     gce_machine_type: n1-standard-2
   el7:
     roles:

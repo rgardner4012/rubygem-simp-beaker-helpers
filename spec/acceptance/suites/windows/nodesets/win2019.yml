@@ -11,7 +11,7 @@ HOSTS:
     vagrant_cpus: 2
     user: vagrant
     is_cygwin: false
-    family: windows-cloud/windows-2019
+    family: 
     gce_machine_type: n1-standard-2
   el7:
     roles:
